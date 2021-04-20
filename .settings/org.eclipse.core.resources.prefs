@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/kr/or/ddit/member/controller/LoginController.java=UTF-8
+encoding//src/main/java/kr/or/ddit/member/repository/UserDao.java=UTF-8
+encoding//src/test/java/kr/or/ddit/user/repository/UserDaoTest.java=UTF-8
+encoding//src/test/java/kr/or/ddit/user/service/UserServiceTest.java=UTF-8
+encoding/<project>=UTF-8
